@@ -15,4 +15,8 @@ In this virtual case, I was assigned 4 tasks.
 --> Present to the client: The fourth task was to use that slide deck along with storytelling techniques and record a video of myself presenting back to the client.
 
 
-To have a look on my work for second and third tasks, please refer to the links mentioned above.
+To have a look on my work for second and third tasks, please refer to the following links respectively:
+
+https://github.com/chanchalj2008/ACCENTURE-VIRTUAL-EXPERIENCE/blob/main/SOCIAL%20BUZZ.xlsx
+
+https://github.com/chanchalj2008/ACCENTURE-VIRTUAL-EXPERIENCE/blob/main/Social%20Buzz%20-%20Task%203.pptx
